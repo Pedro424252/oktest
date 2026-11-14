@@ -1,0 +1,1 @@
+gradle build  ->  build/libs/lootguard-1.0.0.jar
